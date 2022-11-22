@@ -1,10 +1,10 @@
 <?php
     ob_start();
 ?>
-<h2>MVC techonolgy project. Books</h2>
+<h2>MVC techonolgy project. GameNews</h2>
 <article>
     <p>
-        View the list of books and indepth information of one book
+        About Games and Other news.
     </p>
 </article>
 <?php
